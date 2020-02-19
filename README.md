@@ -43,7 +43,7 @@ lines = [
 
 # How to run script
 
-For runing this script you have to python inside your machine (PC)
+For runing this script you must have python install in your machine (PC)
 and if you don't have you must install it. Then you clone the repository and then 
 enter the directory
 
