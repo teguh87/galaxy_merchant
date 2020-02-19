@@ -34,8 +34,9 @@ class Main:
                 return self._msg("{0} is not valid numeric value".format(word[-1]))
 
             word.pop()
+            # print(word)
             word.pop()
-
+            # print(word)
             g = word.pop()
             n = self._parse(word)
 
@@ -74,7 +75,6 @@ class Main:
         else:
             return self._msg("I don't know idea what you talking about")
 
-
     def _parse(self, word):
         num = {self.operand[i]: self.operator[i] for i, v in enumerate(self.operand)}
 
@@ -95,7 +95,7 @@ class Main:
         print(s)
 
 if __name__ == "__main__":
-    
+
     lines = [
         'glob is I prok is V pish is X tegj is L',
         'glob glob Silver is 34 Credits',

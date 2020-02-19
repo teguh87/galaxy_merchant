@@ -79,7 +79,7 @@ For runing this script you must have python install in your machine (PC)
 and if you don't have you must install it. Then you clone the repository and then 
 enter the directory
 
-Pleas run this comman for running this script
+Please run this command to the script
 
 ```
 python main.py
