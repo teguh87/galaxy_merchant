@@ -21,7 +21,7 @@ digits = {
 
 ## test application
 
-Scenario of based on what been determained by the tester 
+Scenario for the test is based on what been determained by the tester 
 it have to consist some lines for picturing the transaction 
 accured.
 
